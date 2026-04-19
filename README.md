@@ -83,9 +83,11 @@ Install the required Python packages:
 pip install streamlit pandas numpy matplotlib seaborn scipy
 
 run: streamlit run app.py
-6. Product Link / Demo
+
+## 6. Product Link / Demo
 Netflix Movies Market Research
-7. Limitations & Next Steps
+
+## 7. Limitations & Next Steps
 Limitations
 •	The analysis depends on the structure and quality of the Kaggle dataset.
 •	The current workflow mainly focuses on ranking, viewing hours, Top 10 duration, and release dates.
