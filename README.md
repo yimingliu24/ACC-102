@@ -81,7 +81,6 @@ This project is implemented in **Python** using the following libraries:
 Install the required Python packages:
 
 ```bash
-pip install streamlit pandas numpy matplotlib seaborn scipy
 
 ## 6. Product Links
 Netflix Movies Market Research
@@ -101,4 +100,3 @@ Netflix Movies Market Research
 - Extend the statistical analysis with regression or forecasting models.
 - Add file upload support instead of relying only on a local CSV path.
 - Deploy the dashboard online for easier access.
-
