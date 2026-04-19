@@ -83,7 +83,6 @@ Install the required Python packages:
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn scipy
 
-run: streamlit run app.py
 ## 6. Product Links
 Netflix Movies Market Research
 ---
