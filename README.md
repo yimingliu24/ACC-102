@@ -84,19 +84,33 @@ pip install streamlit pandas numpy matplotlib seaborn scipy
 
 run: streamlit run app.py
 
-## 6. Product Link / Demo
-Netflix Movies Market Research
+## 6. Product Links
 
-## 7. Limitations & Next Steps
-Limitations
-•	The analysis depends on the structure and quality of the Kaggle dataset.
-•	The current workflow mainly focuses on ranking, viewing hours, Top 10 duration, and release dates.
-•	Important additional features such as genre, country, budget, language, or production company are not included in this version.
-•	The investment recommendation is based on historical monthly patterns and should be interpreted as decision support rather than prediction.
-•	Results may vary depending on filter conditions and future dataset updates.
-Next Steps
-•	Add more metadata such as genre, country, and language for richer analysis.
-•	Introduce predictive methods such as regression or forecasting models.
-•	Improve visual design and chart interactivity.
-•	Add file upload support instead of requiring only a local file path.
-•	Deploy the dashboard online for easier public access.
+### Demo Video
+- `[Insert your demo video link here]`
+
+### GitHub Repository
+- `[Insert your GitHub repository link here]`
+
+### Live App
+- `[Insert your deployed app link here]`
+
+If the project is not deployed, you can replace the live app link with:
+- `Not deployed yet`
+
+---
+
+## 7. Limitations & Future Improvements
+
+### Limitations
+- The analysis depends on the quality and structure of the Kaggle dataset.
+- The current dataset does not include some useful variables such as genre, country, budget, language, or production company.
+- The investment recommendation is based on historical monthly patterns, so it should be treated as decision support rather than a guaranteed prediction.
+- Results may change depending on the selected filters and future dataset updates.
+
+### Future Improvements
+- Add more metadata such as genre, country, language, and production company.
+- Improve chart interactivity and dashboard design.
+- Extend the statistical analysis with regression or forecasting models.
+- Add file upload support instead of relying only on a local CSV path.
+- Deploy the dashboard online for easier access.
