@@ -5,7 +5,7 @@ An interactive **Streamlit dashboard** for exploring Netflix Top 500 global movi
 
 ---
 
-##1. Problem & User
+## 1. Problem & User
 This project investigates how Netflix Top 500 global movies perform in terms of **viewing hours, Top 10 longevity, ranking, and release timing**.  
 It is designed for **business analysts, content planners, students, and researchers** who want to explore streaming performance patterns and support future release or investment decisions through an interactive dashboard.
 
@@ -77,27 +77,15 @@ This project is implemented in **Python** using the following libraries:
 ## 5. How to Run
 
 ### Requirements
+
 Install the required Python packages:
 
 ```bash
 pip install streamlit pandas numpy matplotlib seaborn scipy
 
 run: streamlit run app.py
-
 ## 6. Product Links
-
-### Demo Video
-- `[Insert your demo video link here]`
-
-### GitHub Repository
-- `[Insert your GitHub repository link here]`
-
-### Live App
-- `[Insert your deployed app link here]`
-
-If the project is not deployed, you can replace the live app link with:
-- `Not deployed yet`
-
+Netflix Movies Market Research
 ---
 
 ## 7. Limitations & Future Improvements
@@ -114,3 +102,4 @@ If the project is not deployed, you can replace the live app link with:
 - Extend the statistical analysis with regression or forecasting models.
 - Add file upload support instead of relying only on a local CSV path.
 - Deploy the dashboard online for easier access.
+
