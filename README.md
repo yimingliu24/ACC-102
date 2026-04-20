@@ -80,9 +80,8 @@ This project is implemented in **Python** using the following libraries:
 
 Install the required Python packages:
 
-
 ## 6. Product Links
-Netflix Movies Market Research
+- [Visit the project website](http://localhost:8501/)
 ---
 
 ## 7. Limitations & Future Improvements
