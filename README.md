@@ -78,8 +78,8 @@ This project is implemented in **Python** using the following libraries:
 
 ### Requirements
 Install the required Python packages
-Prepare the Files
-Run the Application：streamlit run app.py
+### Prepare the Files
+### Run the Application：streamlit run app.py
 
 ## 6. Product Links
 - [Visit the project website](http://localhost:8501/)
