@@ -80,7 +80,6 @@ This project is implemented in **Python** using the following libraries:
 
 Install the required Python packages:
 
-```bash
 
 ## 6. Product Links
 Netflix Movies Market Research
